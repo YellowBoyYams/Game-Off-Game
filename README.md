@@ -34,4 +34,4 @@ TLDR;
 
 ### Summary
 
-As you can tell from the check list it appears that I have not got much done, but please keep in mind this is the first update, it is a school night and it is currently 10:30pm and I need some sleep. I hope you enjoy this game(barely any).
+As you can tell from the check list it appears that I have not got much done, but please keep in mind this is the first update, it is a school night and it is currently 10:30pm and I need some sleep. I hope you enjoy this game(barely any). Please report any bugs you find in the issues tab.
