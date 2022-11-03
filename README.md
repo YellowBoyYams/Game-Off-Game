@@ -1,11 +1,12 @@
 # Game Off Game: Version BETA
 
-* [ ] Story
+* [X] Story
 * [ ] Assets
 * [X] Animation
 * [X] Movement
 * [X] Setup
 * [ ] Gamepad Support
+* [ ] Networking
 * [ ] Closing
 * [ ] Credits
 * [ ] Menu
@@ -15,6 +16,10 @@
 ### How is the Check List Structured?
 
 The check list is structured by what the most important things goes on the top and the least important things go on the bottom.
+
+### Story
+
+The story for this game is... there is a king and he is very very very corrupt. He starts to tax the people heavily. You and maybe some friends have to go and try to stop him! This game will look like an old gameboy game.
 
 ### Movement
 
@@ -34,4 +39,4 @@ TLDR;
 
 ### Summary
 
-As you can tell from the check list it appears that I have not got much done, but please keep in mind this is the first update, it is a school night and it is currently 10:30pm and I need some sleep. I hope you enjoy this game(barely any). Please report any bugs you find in the issues tab.
+As you can tell from the check list it appears that I have not got much done, but please keep in mind this is the first update. I hope you enjoy this game(barely any). Please report any bugs you find in the issues tab.
